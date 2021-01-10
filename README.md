@@ -1,4 +1,4 @@
-# Alfred Theme that matches macOS Big Sur
+# Alfred Big Sur Dark Theme
 
 This is a theme I made so that Alfred would feel a little more like Big Sur style.
 
