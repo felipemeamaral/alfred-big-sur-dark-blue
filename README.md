@@ -2,7 +2,7 @@
 
 This is a theme I made so that Alfred would feel a little more like Big Sur style.
 
-Download it from this URL: [HERE](https://github.com/felipemeamaral/alfred-big-sur-dark-blue/raw/main/Big%20Sur%20Dark%20Blue.alfredappearance)
+Download it from this URL: [HERE](https://github.com/felipemeamaral/alfred-big-sur-dark-blue/releases/download/1.0/Big.Sur.Dark.Blue.alfredappearance)
 
 Screenshots:
 
